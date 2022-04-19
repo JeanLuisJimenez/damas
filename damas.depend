@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1650357964 source:c:\users\jjean\desktop\pucmm\fundamentos\clase_29-03-22\damas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"board.h"
+	"utils.h"
+	"player.h"
+	"moves.h"
+	"game.h"
+
+1650394461 c:\users\jjean\desktop\pucmm\fundamentos\clase_29-03-22\damas\board.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"moves.h"
+
+1650346855 c:\users\jjean\desktop\pucmm\fundamentos\clase_29-03-22\damas\utils.h
+	<stdio.h>
+	<stdlib.h>
+
+1650360799 c:\users\jjean\desktop\pucmm\fundamentos\clase_29-03-22\damas\moves.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"game.h"
+	"board.h"
+
+1650360004 c:\users\jjean\desktop\pucmm\fundamentos\clase_29-03-22\damas\game.h
+	"player.h"
+	"moves.h"
+
+1650353516 c:\users\jjean\desktop\pucmm\fundamentos\clase_29-03-22\damas\player.h
+	"utils.h"
+
